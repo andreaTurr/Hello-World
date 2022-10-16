@@ -12,7 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //aggiunto commento da locale
         //aggiunto commento da remoto 2
-
-        //commento da completare
     }
 }
