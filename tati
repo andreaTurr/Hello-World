@@ -1,0 +1,38 @@
+[33mcommit 159077aafb2f4e4472145a28cda81a664151afb4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: andreaTurr <a.turrini2@campus.unimib.it>
+Date:   Sun Oct 16 13:05:42 2022 +0200
+
+    Add second comment from local
+
+[33mcommit 91c9635c8f18ce2ff8ddac5f60edf48dfcc3b968[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: e0ef08f 69341be
+Author: andreaTurr <a.turrini2@campus.unimib.it>
+Date:   Sun Oct 16 13:02:03 2022 +0200
+
+    Merge branch 'main' of github.com:andreaTurr/Hello-World
+
+[33mcommit e0ef08f70eec1571704afcebbbcb28640b77bd5f[m
+Author: andreaTurr <a.turrini2@campus.unimib.it>
+Date:   Sun Oct 16 12:59:04 2022 +0200
+
+    Add comment from local
+
+[33mcommit 69341be21f3c3d3dfee3ebc94f84ee2af95ee92f[m
+Author: andreaTurr <102612528+andreaTurr@users.noreply.github.com>
+Date:   Sun Oct 16 12:58:14 2022 +0200
+
+    Update MainActivity.java
+
+[33mcommit 1531e38ff4f1cb1407b69a5f0877c4be25d4c6a9[m
+Author: andreaTurr <a.turrini2@campus.unimib.it>
+Date:   Sun Oct 16 12:54:02 2022 +0200
+
+    Add Comment
+
+[33mcommit 242928fdd758a398a74c33b162beb3f1d750157a[m
+Author: andreaTurr <102612528+andreaTurr@users.noreply.github.com>
+Date:   Sun Oct 16 11:46:32 2022 +0200
+
+    Initial commit
+    - commento 1
+    - commento 2
